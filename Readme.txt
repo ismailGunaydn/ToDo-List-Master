@@ -1,4 +1,3 @@
-
 1. TodoItemFormatter Class:
 - This class is responsible for formatting the task, due date, and status of To-Do items.
 - The methods `formatTask(task)`, `formatDueDate(dueDate)`, and `formatStatus(completed)` are used to format the textual representation of tasks.
