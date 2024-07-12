@@ -21,4 +21,3 @@ The `addThemeEventListeners()` method listens for click events on theme change b
 The `saveThemeToLocalStorage(themeName)` method saves the selected theme to localStorage, retaining the user's theme preference across visits.
 The `getThemeFromLocalStorage()` method retrieves the saved theme from localStorage for application theme consistency.
 
-Feel free to ask if you have any more specific questions or need further clarification on any part of the code!
